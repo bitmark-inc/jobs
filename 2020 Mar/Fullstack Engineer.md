@@ -1,6 +1,6 @@
-# Fullstack Engineer (Engineering)
+# Fullstack Engineer
 
-Bitmark Inc. — a venture backed software company — is looking for candidates to join our development team. You’ll get to work in an environment that deeply values design and engineering, along side with world-class developers from industry-proven open source (FreeBSD and ex-Openmoko people)
+Bitmark Inc. — a venture backed software company — is looking for candidates to join our Engineering team. You’ll get to work in an environment that deeply values design and engineering, along side with world-class developers from industry-proven open source (FreeBSD and ex-Openmoko people)
 
 ## Your Skills and Experience
 
@@ -13,3 +13,10 @@ Bitmark Inc. — a venture backed software company — is looking for candidates
 - Knowledge of configuration management (git, Vagrant, Ansible, …) in a development environment
 - You are creative and analytical, and like to be appreciated for both
 - You are passionate about contributing to open-source codebases
+
+## Benefits
+
+- Flexible startup company culture with diverse, international team
+- Competitive salary
+- Stock options
+- Childcare benefits
