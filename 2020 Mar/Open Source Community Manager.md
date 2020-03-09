@@ -15,7 +15,7 @@ Bitmark Inc. — a venture backed software company — is looking for candidates
 - Previous experience in organize such events
 - Comfortable with public speaking to a broad audience
 
-## Role
+## Essential job functions
 
 - Build demos and workflows showing users and developers how the Bitmark Inc. platform can deliver value.
 - Manage Bitmark's online open-source community.
@@ -28,3 +28,10 @@ Bitmark Inc. — a venture backed software company — is looking for candidates
 - Promote Bitmark Inc. among the open-source communities locally and overseas.
 - Be the face of the company and community at technical events geared toward attracting new users to the community
 - Engage with academic labs, researchers and developers to promote adoption of Bitmark Inc.
+
+## Benefits
+
+- Flexible startup company culture with diverse, international team
+- Competitive salary
+- Stock options
+- Childcare benefits
