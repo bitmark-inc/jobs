@@ -2,6 +2,8 @@
 
 Bitmark Inc. — a venture backed software company — is looking for candidates to join our Engineering team. You’ll get to work in an environment that deeply values design and engineering, along side with world-class developers from industry-proven open source (FreeBSD and ex-Openmoko people)
 
+## Essential job functions
+
 ## Your Skills and Experience
 
 - Strong English communication skills
