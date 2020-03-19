@@ -4,9 +4,10 @@ Bitmark Inc. – a venture backed software company – is looking for candidates
 
 ## Essential job functions
 
-- Work with communities to define [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq)
-- Propose technical solutions, verify its feasibility and document your work
-- Maintain the blockchain and related services with smooth upgrade and zero downtime
+- Work with communities to define and implement [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq)
+- Identify the insufficiencies of the current protocol and propose [technical solutions](https://docs.bitmark.com/meta/contribute-to-the-protocol#bitmark-upgrade-proposals) for it
+- Maintain the Bitmark blockchain and related services with smooth upgrade and zero downtime
+- Provide technical support to help partners integrate Bitmark services
 
 ## Profiles that are important to us
 
