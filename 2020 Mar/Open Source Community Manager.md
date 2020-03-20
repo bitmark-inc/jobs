@@ -1,20 +1,16 @@
 # Open Source Community Manager
 
-Bitmark Inc. — a venture-backed software company — is looking for candidates to join our Marketing team. You will work with the Head of Marketing and our senior team to design world-class software products.
+Bitmark Inc. — a venture backed software company — is looking for candidates to join our Marketing team. You will work with the Head of Marketing and our senior team to design world-class software products.
 
 ## Essential job functions
 
-- Build demos and workflows showing users and developers how the Bitmark Inc. platform can deliver value.
-- Manage Bitmark's online open-source community.
-- Find & attend events and meetups. Present Bitmark and also give technical training.
-- Translate Bitmark information from English to Chinese for Taiwan, China, and other Chinese-language communities.
-- Extravert personality, enjoy traveling and talking to different people.
-- Plan and execute creative collaboration with other communities.
-- Develop written materials and code repos showcasing the technical value of the product such as demos, blog posts and tutorials.
-- Design and execute large-scale community-building and engagement initiatives.
-- Promote Bitmark Inc. among the open-source communities locally and overseas.
-- Be the face of the company and community at technical events geared toward attracting new users to the community
+- Develop written materials and programs showcasing the technical value of [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq) such as demos, blog posts and tutorials.
+- Grow and manage Bitmark's online open-source community.
+- Find & attend events and meetups locally and overseas to attract new users to the community.
 - Engage with academic labs, researchers and developers to promote adoption of Bitmark Inc.
+- Give technical training to the community.
+- Plan and execute creative collaboration with other communities.
+- Translate Bitmark information from English to Chinese for Taiwan, China, and other Chinese-language communities.
 
 ## Profiles that are important to us
 
@@ -28,6 +24,7 @@ Bitmark Inc. — a venture-backed software company — is looking for candidates
 - Experience presenting at technology conferences, hackathons and blogging/writing technical articles
 - Previous experience in organizing such events
 - Comfortable with public speaking to a broad audience
+- Extravert personality, enjoy traveling and talking to different people.
 
 ## Benefits
 
