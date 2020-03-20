@@ -1,6 +1,6 @@
 # Head of Marketing
 
-Bitmark Inc. – a venture backed software company – is looking for candidates to join our business development team. You lead our marketing, driving an efficient marketing funnel that capitalises on our bottom up interest and supports our fast growing enterprise sales team, including activities such as lead nurturing, lead scoring, sales collateral and more.
+Bitmark Inc. – a venture backed software company – is looking for candidates to join our Marketing team. You lead our marketing, driving an efficient marketing funnel that capitalises on our bottom up interest and supports our fast growing enterprise sales team, including activities such as lead nurturing, lead scoring, sales collateral and more.
 
 ## Essential job functions
 
