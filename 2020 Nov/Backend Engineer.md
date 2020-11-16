@@ -1,7 +1,6 @@
 # Backend Engineer
 
-Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our
-blockchain and related services. You’ll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
+Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You’ll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
 
 ## Essential job functions
 
