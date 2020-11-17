@@ -9,7 +9,7 @@ design experience.
 ​
 ## Essential job functions
 ​
-- Work with out Front and Back End developers to deploy and maintain service
+- Work with our Front and Back End developers to deploy and maintain service
 - Maintain the Bitmark blockchain and many related services
 - Provide technical support for deploying both testing and production networks
 - Setup and maintain network and security monitoring
