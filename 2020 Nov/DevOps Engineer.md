@@ -1,21 +1,18 @@
 # DevOps Engineer
-​
-Bitmark Inc. – a venture backed software company – is looking for
-candidates to join our team and accelerate development of our
-blockchain and related services. You’ll get to work in an environment
-that deeply values design and engineering, alongside a talented team
-with industry-proven open source (we are ex-Openmoko people) and
-design experience.
-​
+
+Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You'll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
+
+About the company: Bitmark Inc. is a blockchain startup defining property for the digital environment by enabling issuance of property titles for digital assets. As the facilitating network for ownership and stewardship of personal digital ecologies, Bitmark embraces creators and digital environmentalists vying for a healthy internet and Internet of Things.
+
 ## Essential job functions
-​
+
 - Work with our Front and Back End developers to deploy and maintain service
 - Maintain the Bitmark blockchain and many related services
 - Provide technical support for deploying both testing and production networks
 - Setup and maintain network and security monitoring
-​
+
 ## Profiles that are important to us
-​
+
 - Strong English communication skills
 - Strong system administration and networking skills
 - Knowledge of OS installation, configuration, and maintenance (we use Ubuntu and FreeBSD)
@@ -28,9 +25,9 @@ design experience.
 - Solid security and network hardening fundamentals
 - You are creative and analytical, and like to be appreciated for both
 - You are passionate about contributing to open-source codebases
-​
+
 ## Benefits
-​
+
 - Flexible startup company culture with diverse, international team
 - Competitive salary
 - Stock options
