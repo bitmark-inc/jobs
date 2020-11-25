@@ -1,5 +1,9 @@
 # Backend Engineer
 
+REPORTS TO: ENGINEERING MANAGER
+DATE: NOV 2020 
+LOCATION: TAIPEI, TAIWAN
+
 Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You’ll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
 
 About the company: Bitmark Inc. is a blockchain startup defining property for the digital environment by enabling issuance of property titles for digital assets. As the facilitating network for ownership and stewardship of personal digital ecologies, Bitmark embraces creators and digital environmentalists vying for a healthy internet and Internet of Things.
