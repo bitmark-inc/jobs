@@ -6,9 +6,10 @@ About the company: Bitmark Inc. is a blockchain startup defining property for th
 
 ## Essential job functions
 
-- Work with our Front and Back End developers to deploy and maintain service
-- Maintain the Bitmark blockchain and many related services
-- Provide technical support for deploying both testing and production networks
+- Manage the deployment of the Bitmark blockchain and many related services to both staging and production environments
+- Implement and maintain CI/CD pipelines
+- Maintain the Kubernetes cluster
+- Monitor resource usage and costs, and optimize the cost efficiency
 - Setup and maintain network and security monitoring
 
 ## Profiles that are important to us
