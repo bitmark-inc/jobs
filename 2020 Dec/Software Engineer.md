@@ -10,6 +10,14 @@ About the company: Bitmark Inc. is a blockchain startup defining property for th
 
 ## Essential job functions
 
+We have several projects ongoing in parallel. The actual responsibilities depend on your personal interest and skills. Here are job functions you might have:
+
+- Develop and maintain the backend and front-end (web, iOS, Android apps) of these [projects](https://bitmark.com/projects) based on [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq)
+- Work closely with the team to build prototypes and validate solutions
+- Work with communities to define and implement the standards of blockchain infrastructure
+- Leverage CI and CD tools to automate testing and deployment
+- Create internal data analytics and monitoring tools
+
 ## Profiles that are important to us
 
 - Strong English communication skills
