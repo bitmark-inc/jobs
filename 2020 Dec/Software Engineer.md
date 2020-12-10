@@ -1,10 +1,12 @@
-# Backend Engineer
+# Software Engineer
 
-REPORTS TO: Head of engineering
-DATE: Dec 2020 
-LOCATION: Da Nang - Vietnam
+REPORTS TO: ENGINEERING MANAGER
+DATE: DEC 2020 
+LOCATION: DA NANG, VIETNAM
 
-Bitmark Inc. — a venture backed software company — is looking for candidates to join our development team. You’ll get to work in an environment that deeply values design and engineering, along side with world-class developers from industry-proven open source (FreeBSD and ex-Openmoko people)
+Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You’ll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
+
+About the company: Bitmark Inc. is a blockchain startup defining property for the digital environment by enabling issuance of property titles for digital assets. As the facilitating network for ownership and stewardship of personal digital ecologies, Bitmark embraces creators and digital environmentalists vying for a healthy internet and Internet of Things.
 
 ## Your Skills And Experience
 
@@ -19,7 +21,7 @@ Bitmark Inc. — a venture backed software company — is looking for candidates
 - You are creative and analytical, and like to be appreciated for both
 - You are passionate about contributing to open-source codebases
 
-## Why you love working here?
+## Benefits
 
 - Salary range: USD 1200 to 2000
 - Child care benefits: USD 100 per child
