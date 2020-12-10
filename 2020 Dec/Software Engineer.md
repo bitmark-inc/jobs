@@ -8,7 +8,9 @@ Bitmark Inc. – a venture backed software company – is looking for candidates
 
 About the company: Bitmark Inc. is a blockchain startup defining property for the digital environment by enabling issuance of property titles for digital assets. As the facilitating network for ownership and stewardship of personal digital ecologies, Bitmark embraces creators and digital environmentalists vying for a healthy internet and Internet of Things.
 
-## Your Skills And Experience
+## Essential job functions
+
+## Profiles that are important to us
 
 - Strong English communication skills
 - Strong coding skills and computer science fundamentals
