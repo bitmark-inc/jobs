@@ -1,8 +1,7 @@
 # DevOps Engineer
 
 REPORTS TO: ENGINEERING MANAGER
-DATE: NOV 2020 
-LOCATION: TAIPEI, TAIWAN
+LOCATION: TAIPEI, TAIWAN / REMOTE
 
 Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You'll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
 
@@ -33,7 +32,8 @@ About the company: Bitmark Inc. is a blockchain startup defining property for th
 
 ## Benefits
 
-- Flexible startup company culture with diverse, international team
-- Competitive salary
+- Salary range: starting from NT$90K/month for hires in Taipei
 - Stock options
-- Childcare benefits
+- Child care benefits
+- Flexible startup company culture with diverse, international team
+- Participate in our 1% pledge to protect the digital environment
