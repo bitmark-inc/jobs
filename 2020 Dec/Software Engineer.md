@@ -37,4 +37,4 @@ We have several projects ongoing in parallel. The actual responsibilities depend
 - Stock options
 - MacBook pro provided
 - Working on a daily basis with world-class developers from FreeBSD and OpenMoko
-- Participate in our annual disbursement for 1% for the Planet
+- Participate in our 1% pledge to protect the digital environment
