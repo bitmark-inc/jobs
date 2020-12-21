@@ -1,7 +1,6 @@
 # Backend Engineer
 
 REPORTS TO: ENGINEERING MANAGER
-DATE: NOV 2020 
 LOCATION: TAIPEI, TAIWAN
 
 Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You’ll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
@@ -31,6 +30,8 @@ We have several projects ongoing in parallel. The actual responsibilities depend
 
 ## Benefits
 
-- Flexible startup company culture with diverse, international team
-- Competitive salary
+- Salary range: starting from NT$90K/month
 - Stock options
+- Child care benefits
+- Flexible startup company culture with diverse, international team
+- Participate in our 1% pledge to protect the digital environment
