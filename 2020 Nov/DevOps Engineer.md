@@ -32,7 +32,7 @@ About the company: Bitmark Inc. is a blockchain startup defining property for th
 
 ## Benefits
 
-- Salary range: starting from NT$90K/month for hires in Taipei
+- Competitive salary
 - Stock options
 - Child care benefits
 - Flexible startup company culture with diverse, international team
