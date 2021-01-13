@@ -31,7 +31,7 @@ You are someone who:
 
 ## Benefits
 
-+ Salary range: starting from NT$40K/month
++ Competitive salary
 + Stock options
 + Childcare benefits
 + Flexible startup company culture with diverse, international team
