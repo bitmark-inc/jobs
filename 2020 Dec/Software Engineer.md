@@ -32,8 +32,8 @@ We have several projects ongoing in parallel. The actual responsibilities depend
 
 ## Benefits
 
-- Salary range: USD 1200 to 2000
-- Child care benefits: USD 100 per child
+- Competitive salary
+- Child care benefits
 - Stock options
 - MacBook pro provided
 - Working on a daily basis with world-class developers from FreeBSD and OpenMoko
