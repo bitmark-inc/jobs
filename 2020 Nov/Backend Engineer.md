@@ -30,7 +30,7 @@ We have several projects ongoing in parallel. The actual responsibilities depend
 
 ## Benefits
 
-- Salary range: starting from NT$90K/month
+- Competitive salary
 - Stock options
 - Child care benefits
 - Flexible startup company culture with diverse, international team
