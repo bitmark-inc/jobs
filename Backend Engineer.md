@@ -1,19 +1,20 @@
 # Backend Engineer
 
-REPORTS TO: ENGINEERING MANAGER
-LOCATION: TAIPEI, TAIWAN
+*Reports to: Engineering Manager<br/>
+Location: Asia*
 
-Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You’ll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
+Bitmark was founded in 2014 with the belief that data is the next major asset class. In 2020, we were selected as one of 100 World Economic Forum Technology Pioneers.
 
-About the company: Bitmark Inc. is a blockchain startup defining property for the digital environment by enabling issuance of property titles for digital assets. As the facilitating network for ownership and stewardship of personal digital ecologies, Bitmark embraces creators and digital environmentalists vying for a healthy internet and Internet of Things.
+We make tools for individuals to gain access and control, and eventually monetize their own data. We have worked across essential services such as public health, life sciences, entertainment, and digital identity.
+
 
 ## Essential job functions
 
 We have several projects ongoing in parallel. The actual responsibilities depend on your personal interest and skills. Here are job functions you might have:
 
-- Develop and maintain the backend of these [projects](https://bitmark.com/projects) based on [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq)
-- Work closely with the team to build prototypes and validate solutions
-- Work with communities to define and implement the standards of blockchain infrastructure
+- Develop a new micro-service architecture for Bitcoin full nodes based on [Gordian System](https://github.com/BlockchainCommons/Gordian)
+- Advance the [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq)
+- Work with communities, such as [Blockchain Commons](https://www.blockchaincommons.com/) to define and implement standards for secure open infrastructure
 - Leverage CI and CD tools to automate testing and deployment
 - Create internal data analytics and monitoring tools
 
@@ -21,10 +22,10 @@ We have several projects ongoing in parallel. The actual responsibilities depend
 
 - Strong English communication skills
 - Strong coding skills and computer science fundamentals
-- Experience with Golang development
-- Knowledge of cryptography and advanced usage (Tor, cryptocurrencies, ...) is a major plus
-- Knowledge of database (PostgreSQL, LevelDB, Redis, …)
-- Knowledge of communication methods to interact with frontend applications (WebSockets, RPC, JSON, …)
+- Experience with Golang
+- Knowledge of cryptography and cryptographic tools (Eg: Tor, Bitcoin) is a major plus
+- Knowledge of databases (PostgreSQL, LevelDB, Redis, …)
+- Knowledge of communication methods to interact with  applications and other services (WebSockets, RPC, JSON, …)
 - Knowledge of configuration management (Git, containers, Ansible, Helm, …) in a development environment
 - Able to take the initiative
 
