@@ -1,4 +1,4 @@
-# Social Marketing Coordinator
+# Social Marketing and PR Coordinator
 
 REPORTS TO: HEAD OF MARKETING
 LOCATION: TAIPEI, TAIWAN
@@ -10,24 +10,24 @@ About the company: Bitmark Inc. is a blockchain startup defining property for th
 
 ## Essential job functions
 
-+ Bring consistency to our social media accounts (LinkedIn, Twitter, Instagram, our product communities)
-  - Creating a daily presence around our brand - something our own team members would want to follow.
-  - Respond to others in these activation points as you wish other companies would respond to you.
-  - Establish a unified voice, a human image to the Bitmark brand.
-  - Brings insights from our team and work to the public.
-+ Track performance across all marketing / communication tactics, surfacing trends for decision making
-+ Come up with new content across all our channels. You do not need to create the content all yourself, but you must be able to coordinate execution - surfacing things that need to be shared, and preparing the best way to reach people.
-+ Always keep content performance in mind. Do not create content for the sake of having more content - always understand how we create reach through it. Think about how our partners, advisors, and ambassadors can help.
-+ Research and propose new ideas to support our efforts.
-+ Learn how to optimize for social media growth (time of posting, writing style, etc). Run experiments for optimizations.
+The Coordinator tells Bitmark’s story to the world.
+
++ Maximize our channels: social media accounts and product communities.
+  - Establish a unified, human voice for the Bitmark brand - something our own team members would follow.
+  - Sustain a daily presence.
+  - Respond to others as you wish people would respond to you - timely and respectful.
++ Bring insights from our team to the public by creating or facilitating content in various media (incl. video).
++ Foster media relationships to grow external exposure to our work.
++ Optimize for growth (time of posting, writing style, etc) via experimentation. Think about how our partners, advisors, and ambassadors can help.
 
 ## Profiles that are important to us
 
 You are someone who:
++ Has a public history in telling stories (ex. Journalist, podcaster, writer).
 + Cares about digital rights, actively looking to read and learn about the area. You do not necessarily need to be experienced in these areas or technical.
 + Brings energy to the workplace - you are naturally optimistic and like to talk to everyone.
 + Communicates well in Chinese and are capable (writing short-form) in English.
-+ Actively engages in social media
++ Actively engages in social media.
 
 ## Benefits
 
