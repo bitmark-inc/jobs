@@ -1,7 +1,7 @@
 # Developer Advocate
 
 REPORTS TO: HEAD OF MARKETING
-LOCATION: TAIPEI, TAIWAN
+LOCATION: GLOBAL
 
 Bitmark Inc. – a venture backed software company – is looking for compassionate people who want to help us motivate and enable developers to use and expand upon our products.
 
