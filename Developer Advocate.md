@@ -8,7 +8,7 @@ Bitmark Inc. – a venture backed software company – is looking for compassion
 ## Essential job functions
 
 + Strengthen brand awareness.
-  - Identity and attend events to share Bitmark’s work and mission.
+  - Identify and attend events to share Bitmark’s work and mission.
   - Arrange for team members to attend and speak at events.
   - Work with the Social Marketing and PR Coordinator to share our work milestones (targeted towards engineers) via Bitmark’s media channels.
 + Recruit
