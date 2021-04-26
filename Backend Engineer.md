@@ -1,38 +1,64 @@
 # Backend Engineer
 
-*Reports to: Engineering Manager<br/>
-Location: Asia*
-
-Bitmark was founded in 2014 with the belief that data is the next major asset class. In 2020, we were selected as one of 100 World Economic Forum Technology Pioneers.
-
-We make tools for individuals to gain access and control, and eventually monetize their own data. We have worked across essential services such as public health, life sciences, entertainment, and digital identity.
-
+REPORTS TO: ENGINEERING MANAGER
+LOCATION: ASIA
 
 ## Essential job functions
 
-We have several projects ongoing in parallel. The actual responsibilities depend on your personal interest and skills. Here are job functions you might have:
+There are several teams in Bitmark working on different projects and the details about them are as follows.
 
-- Develop a new micro-service architecture for Bitcoin full nodes based on [Gordian System](https://github.com/BlockchainCommons/Gordian)
-- Advance the [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq)
-- Work with communities, such as [Blockchain Commons](https://www.blockchaincommons.com/) to define and implement standards for secure open infrastructure
+Please let us know which project you are interested in. The engineering manager will also work with you to determine which project makes you a better fit according to your interest and skills through the interview process.
+
+### Feral File
+
+A hybrid between an online gallery, marketplace, and publisher of artist editions. Invigorating the future of exhibiting, curating, and collecting digital media in partnership with the digital art community through Bitmark NFTs.
+
+- Develop and maintain the backend of [Feral File](https://feralfile.com)
+    - Integrate [Bitmark SDK](https://docs.bitmark.com/essentials/installation) to manage Bitmark NFTs
+    - Support the display and distribution of different types of digital artworks, e,g software, video, pdf, audio, image, 3D, animated gif, etc.
+    - Support international payments in both fiat and cryptocurrencies
 - Leverage CI and CD tools to automate testing and deployment
-- Create internal data analytics and monitoring tools
+- Scale the service to support higher transaction volume
+- Create internal data analytics to help with decision making
+
+### Autonomy
+
+Autonomy is a full node wallet, a P2P contact list, and a recovery network. Working together, they give you independence, make Bitcoin easy to use, and ensure that you never lose your money. It’s like having a Bitcoin full node in your pocket!
+
+- Develop [the Autonomy pod](https://hackmd.io/CrNGQQSsTmKzo2YYogRqtA?view#Pod-Architecture), the Bitcoin full node designed for running in the cloud privately for each user  
+  - Increase the privacy, safety, and security of Autonomy pod, which will require [Torgap](https://github.com/BlockchainCommons/torgap/blob/master/README.md), [Signal messaging](https://signal.org/docs/), etc.
+  - Design a scalable architecture for running more Autonomy pods
+  - Lower the cost of running an Autonomy pod
+- Develop the backend of Autonomy app and other Bitcoin-related microservices powered by Bitmark (e.g. fee estimation, price history, explorer, etc.)
+- Work with communities to make the solutions [Gordian-certified](https://github.com/BlockchainCommons/Gordian)
+
+### Protocol
+
+- Maintain [the Bitmark blockchain](https://github.com/bitmark-inc/bitmarkd) and [the Bitmark Golang SDK](https://docs.bitmark.com)
+- Work with communities to advance [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq).
+  The research topics include but are not limited to:
+    - [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core)
+    - [InterNFT](https://internft.org)
+    - [RGB](https://rgb-org.github.io)
+    - [Cosmos](https://cosmos.network)
 
 ## Profiles that are important to us
 
+### Required
+
+- Strong computer science fundamentals and coding skills (we use Golang)
+- Knowledge of databases (PostgreSQL, LevelDB, Redis)
+- Knowledge of communication methods to interact with applications and other services (REST, WebSockets, RPC, etc.)
+- Knowledge of configuration management (Git, containers, Ansible)
+- Cloud services (AWS, GCP, DigitalOcean)
 - Strong English communication skills
-- Strong coding skills and computer science fundamentals
-- Experience with Golang
-- Knowledge of cryptography and cryptographic tools (Eg: Tor, Bitcoin) is a major plus
-- Knowledge of databases (PostgreSQL, LevelDB, Redis, …)
-- Knowledge of communication methods to interact with  applications and other services (WebSockets, RPC, JSON, …)
-- Knowledge of configuration management (Git, containers, Ansible, Helm, …) in a development environment
-- Able to take the initiative
+
+### Plus
+
+- Cryptography and cryptographic tools (e.g. Tor, Bitcoin, end-to-end encryption communication)
+- Kubernetes
 
 ## Benefits
 
-- Competitive salary
 - Stock options
 - Child care benefits
-- Flexible startup company culture with diverse, international team
-- Participate in our 1% pledge to protect the digital environment
