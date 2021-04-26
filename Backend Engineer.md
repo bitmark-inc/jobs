@@ -9,7 +9,7 @@ We have several projects ongoing in parallel, which are **Feral File**, **Autono
 
 ### Feral File
 
-A hybrid between an online gallery, marketplace, and publisher of artist editions. Invigorating the future of exhibiting, curating, and collecting digital media in partnership with the digital art community through Bitmark NFTs.
+> A hybrid between an online gallery, marketplace, and publisher of artist editions. Invigorating the future of exhibiting, curating, and collecting digital media in partnership with the digital art community through Bitmark NFTs.
 
 - Develop and maintain the backend of [Feral File](https://feralfile.com)
     - Integrate [Bitmark SDK](https://docs.bitmark.com/essentials/installation) to manage Bitmark NFTs
@@ -21,7 +21,7 @@ A hybrid between an online gallery, marketplace, and publisher of artist edition
 
 ### Autonomy
 
-Autonomy is a full node wallet, a P2P contact list, and a recovery network. Working together, they give you independence, make Bitcoin easy to use, and ensure that you never lose your money. It’s like having a Bitcoin full node in your pocket!
+> Autonomy is a full node wallet, a P2P contact list, and a recovery network. Working together, they give you independence, make Bitcoin easy to use, and ensure that you never lose your money. It’s like having a Bitcoin full node in your pocket!
 
 - Develop [the Autonomy pod](https://hackmd.io/CrNGQQSsTmKzo2YYogRqtA?view#Pod-Architecture), the Bitcoin full node designed for running in the cloud privately for each user  
   - Increase the privacy, safety, and security of Autonomy pod, which will require [Torgap](https://github.com/BlockchainCommons/torgap/blob/master/README.md), [Signal messaging](https://signal.org/docs/), etc.
@@ -30,7 +30,9 @@ Autonomy is a full node wallet, a P2P contact list, and a recovery network. Work
 - Develop the backend of Autonomy app and other Bitcoin-related microservices powered by Bitmark (e.g. fee estimation, price history, explorer, etc.)
 - Work with communities to make the solutions [Gordian-certified](https://github.com/BlockchainCommons/Gordian)
 
-### Protocol
+### Bitmark Protocol
+
+> In the digital age, the ability to set rules around the usage and exchange of assets has become increasingly difficult for individuals. Crypto rights are programmable rules to control assets. They are cryptographic, so they can be exchanged across the Internet. Bitmark is a blockchain-based, end-to-end protocol for crypto rights.
 
 - Maintain [the Bitmark blockchain](https://github.com/bitmark-inc/bitmarkd) and [the Bitmark Golang SDK](https://docs.bitmark.com)
 - Work with communities to advance [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq).
