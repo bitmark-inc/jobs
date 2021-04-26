@@ -5,9 +5,7 @@ LOCATION: ASIA
 
 ## Essential job functions
 
-There are several teams in Bitmark working on different projects and the details about them are as follows.
-
-Please let us know which project you are interested in. The engineering manager will also work with you to determine which project makes you a better fit according to your interest and skills through the interview process.
+We have several projects ongoing in parallel, which are **Feral File**, **Autonomy**, and **Bitmark Protocol**. Please let us know which project you are interested in if you would like to apply this position. The engineering manager will also work with you to determine which project makes you a better fit according to your interests and skills through the interview process.
 
 ### Feral File
 
