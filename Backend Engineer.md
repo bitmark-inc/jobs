@@ -51,7 +51,7 @@ We have several projects ongoing in parallel, which are **Feral File**, **Autono
 - Knowledge of communication methods to interact with applications and other services (REST, WebSockets, RPC, etc.)
 - Knowledge of configuration management (Git, containers, Ansible)
 - Cloud services (AWS, GCP, DigitalOcean)
-- Strong English communication skills
+- Conversational-level English
 
 ### Plus
 
