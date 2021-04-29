@@ -26,7 +26,7 @@ Each user will have have their own Bitcoin full node, i.e. [Autonomy Pod](https:
 - Knowledge of database backup and monitoring (PostgreSQL, LevelDB, Redis, MongoDB, etc.)
 - Strong system administration and networking skills
 - Solid security and network hardening fundamentals
-- Strong English communication skills
+- Conversational-level English
 
 ## Benefits
 
