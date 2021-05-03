@@ -3,37 +3,32 @@
 REPORTS TO: ENGINEERING MANAGER
 LOCATION: TAIPEI, TAIWAN / REMOTE
 
-Bitmark Inc. – a venture backed software company – is looking for candidates to join our team and accelerate development of our blockchain and related services. You'll get to work in an environment that deeply values design and engineering, alongside a talented team with industry-proven open source (we are ex-Openmoko people) and design experience.
-
-About the company: Bitmark Inc. is a blockchain startup defining property for the digital environment by enabling issuance of property titles for digital assets. As the facilitating network for ownership and stewardship of personal digital ecologies, Bitmark embraces creators and digital environmentalists vying for a healthy internet and Internet of Things.
-
 ## Essential job functions
 
-- Manage the deployment of the Bitmark blockchain and many related services to both staging and production environments
-- Implement and maintain CI/CD pipelines
-- Maintain the Kubernetes cluster
-- Monitor resource usage and costs, and optimize the cost efficiency
-- Setup and maintain network and security monitoring
+The main product of Bitmark is Autonomy.
+
+> Autonomy is a full node wallet, a P2P contact list, and a recovery network. Working together, they give you independence, make Bitcoin easy to use, and ensure that you never lose your money. It’s like having a Bitcoin full node in your pocket! 
+
+Each user will have have their own Bitcoin full node, i.e. [Autonomy Pod](https://hackmd.io/CrNGQQSsTmKzo2YYogRqtA?view#Pod-Architecture). As a DevOps Engineer, you will have to work with Backend Engineers to design and maintain a scalable architecture for [running Bitcoin full nodes](https://bitcoin.org/en/bitcoin-core/features/requirements#system-requirements). This will include:
+
+- Manage Kubernetes clusters
+- Design safe and efficient CI/CD pipelines
+- Set the proper alarms for key service metrics
+- Optimize system resource usage and cost efficiency
 
 ## Profiles that are important to us
 
-- Strong English communication skills
-- Strong system administration and networking skills
 - Knowledge of OS installation, configuration, and maintenance (we use Ubuntu and FreeBSD)
-- Knowledge of cloud service providers (DigitalOcean and AWS)
+- Knowledge of cloud service providers (AWS, GCP, and DigitalOcean)
 - Knowledge of container systems (Kubernetes, FreeBSD Jails)
 - Knowledge of automated integration tools (TravisCI integration with Github)
-- Knowledge of automated deployment tools (Ansible)
-- Knowledge of database backup and monitoring (PostgreSQL, LevelDB, Redis, MongoDB, …)
-- Knowledge of network monitoring and performance
+- Sound experience with Infrastructure as Code (Helm, Ansible)
+- Knowledge of database backup and monitoring (PostgreSQL, LevelDB, Redis, MongoDB, etc.)
+- Strong system administration and networking skills
 - Solid security and network hardening fundamentals
-- You are creative and analytical, and like to be appreciated for both
-- You are passionate about contributing to open-source codebases
+- Conversational-level English
 
 ## Benefits
 
-- Competitive salary
 - Stock options
 - Child care benefits
-- Flexible startup company culture with diverse, international team
-- Participate in our 1% pledge to protect the digital environment
