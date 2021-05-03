@@ -32,7 +32,7 @@ We have several projects ongoing in parallel, which are **Feral File**, **Autono
 
 ### Bitmark Protocol
 
-> In the digital age, the ability to set rules around the usage and exchange of assets has become increasingly difficult for individuals. Crypto rights are programmable rules to control assets. They are cryptographic, so they can be exchanged across the Internet. Bitmark is a blockchain-based, end-to-end protocol for crypto rights.
+> Bitmark Protocol is a system for organizing information about the world’s digital resources. People can activate — use, transfer, generate revenue from — resources safely with each other by verifying what a resource is and who controls it through Bitmark Protocol.
 
 - Maintain [the Bitmark blockchain](https://github.com/bitmark-inc/bitmarkd) and [the Bitmark Golang SDK](https://docs.bitmark.com)
 - Work with communities to advance [the Bitmark Protocol](https://bitmark.com/products/bitmark-protocol/faq).
