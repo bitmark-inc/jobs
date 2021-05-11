@@ -9,7 +9,7 @@ The main product of Bitmark is Autonomy.
 
 > Autonomy is a full node wallet, a P2P contact list, and a recovery network. Working together, they give you independence, make Bitcoin easy to use, and ensure that you never lose your money. It’s like having a Bitcoin full node in your pocket! 
 
-- Work with Backend Engineers to design and maintain a scalable architecture for running Bitcoin full nodes for every Autonomy user
+- Work with Backend Engineers to design and maintain a scalable architecture for running Bitcoin full nodes
 - Manage Kubernetes clusters
 - Design safe and efficient CI/CD pipelines
 - Set the proper alarms for key service metrics
