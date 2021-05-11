@@ -9,8 +9,7 @@ The main product of Bitmark is Autonomy.
 
 > Autonomy is a full node wallet, a P2P contact list, and a recovery network. Working together, they give you independence, make Bitcoin easy to use, and ensure that you never lose your money. It’s like having a Bitcoin full node in your pocket! 
 
-Each user will have have their own Bitcoin full node, i.e. [Autonomy Pod](https://hackmd.io/CrNGQQSsTmKzo2YYogRqtA?view#Pod-Architecture). As a DevOps Engineer, you will have to work with Backend Engineers to design and maintain a scalable architecture for [running Bitcoin full nodes](https://bitcoin.org/en/bitcoin-core/features/requirements#system-requirements). This will include:
-
+- Work with Backend Engineers to design and maintain a scalable architecture for running Bitcoin full nodes for every Autonomy user
 - Manage Kubernetes clusters
 - Design safe and efficient CI/CD pipelines
 - Set the proper alarms for key service metrics
