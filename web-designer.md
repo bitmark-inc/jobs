@@ -11,10 +11,10 @@ As a web designer at Bitmark you will be an integral part of our product team, d
 - UX
 
 ## Profiles that are important to us
-- 5+ years of relevant web design experience—ideally at a tech-forward, product-driven company.
-- Exptert understanding of HTML, CSS, JS and how to build and maintain a UI-kit.
+- Expert understanding of HTML, CSS, JS and how to build and maintain a UI-kit.
 - Familiar with the formal elements of design, not just limited to the web and including typography, layout, balance, and proportion.
-- Conversational-level English
+- 2+ years of work experience.
+- Conversational-level English.
 
 ## Benefits
 
