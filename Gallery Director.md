@@ -1,8 +1,8 @@
 # Gallery Director
 
-**TEAM: Operations**
-**LEVEL: Staff**
-**TIME ZONE: Global**
+TEAM: Operations
+LEVEL: Staff
+TIME ZONE: Global
 
 ## Description
 The Gallery Director works closely with Casey Reas in executing the overall direction of Feral File.
