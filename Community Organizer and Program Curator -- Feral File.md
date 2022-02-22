@@ -1,7 +1,6 @@
 # Community Organizer and Program Curator -- Feral File
 
 **TEAM: Communication and Public Programming**
-**REPORTS TO: Head of Marketing**
 **LEVEL: Staff**
 **TIME ZONE: Global**
 
