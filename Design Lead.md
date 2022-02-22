@@ -1,8 +1,8 @@
 # Design Lead
 
-**TEAM: Product**
-**LEVEL: Lead**
-**TIME ZONE: Global**
+TEAM: Product
+LEVEL: Lead
+TIME ZONE: Global
 
 ## Description
 Bitmark Inc. — a venture backed software company — is looking for passionate people with the skills and vision to take our products to the next level. As a Design Lead you will own the design vision for a specific software product and push it forward. 
