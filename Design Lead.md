@@ -1,7 +1,6 @@
 # Design Lead
 
 **TEAM: Product**
-**REPORTS TO: Head of Product**
 **LEVEL: Lead**
 **TIME ZONE: Global**
 
