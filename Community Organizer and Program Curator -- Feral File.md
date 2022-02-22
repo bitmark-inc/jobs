@@ -1,8 +1,8 @@
 # Community Organizer and Program Curator -- Feral File
 
-**TEAM: Communication and Public Programming**
-**LEVEL: Staff**
-**TIME ZONE: Global**
+TEAM: Communication and Public Programming
+LEVEL: Staff
+TIME ZONE: Global
 
 ## Description
 The Community Organizer and Program Curator is the public’s first point of contact with Feral File. They lead our official social media channels and communities as well as extend our reach to other communities.
