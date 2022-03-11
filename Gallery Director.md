@@ -1,7 +1,7 @@
 # Gallery Director
 
 TEAM: Operations
-LEVEL: Staff
+LEVEL: Lead
 TIME ZONE: Global
 
 ## Description
