@@ -1,7 +1,9 @@
 # Operations
 
 TEAM: Operations
+
 LEVEL: Junior
+
 TIME ZONE: Global
 
 ## Description
